@@ -7,7 +7,7 @@ function MatButton() {
         <div className="flex items-center justify-center">
        
             <p className="p-6 text-center text-gray-700 text-lg">
-            Vamos conhecer algumas ferramentas para facilitar a aplicação do projeto e tornar as aulas mais dinâmicas?</p>
+            Na próxima seção vamos conhecer algumas ferramentas para auxiliar professores e alunos na execução do programa.</p>
 
             
         </div>

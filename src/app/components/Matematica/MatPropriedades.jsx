@@ -28,7 +28,7 @@ function MatPropriedades() {
 
                   </div>
                   <div className="mb-12 lg:mb-0">
-                    <img src="/images/jamboard.jpg" alt="Google Jamboard" />
+                    <img src="/images/aofinal.jpg" alt="Google Jamboard" className="rounded-xl"/>
                   </div>
                 </div>
               </div>

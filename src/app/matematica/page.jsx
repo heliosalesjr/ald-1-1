@@ -11,6 +11,7 @@ import Divider from '../components/Divider'
 import MatContextualizando from '../components/Matematica/MatContextualizando'
 import MatOperFrac from '../components/Matematica/MatOperFrac'
 import MatInterpretacao from '../components/Matematica/MatInterpretacao'
+import MatGrandezas from '../components/Matematica/MatGrandezas'
 
 
 function Matematica() {
@@ -23,6 +24,7 @@ function Matematica() {
         
         <MatSugestao />
         <MatOperFrac />
+        <MatGrandezas />
         <MatInterpretacao />
         <MatPropriedades />
         <Divider />
