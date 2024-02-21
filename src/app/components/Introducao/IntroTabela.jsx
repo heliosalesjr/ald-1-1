@@ -5,10 +5,10 @@ import { Table, TableHeader, TableColumn, TableBody, TableRow, TableCell, getKey
 const rows = [
   {
     key: "1",
-    name: "1",
-    role: "1. Eu quero dinheiro para quê? 2. / Futuro, aqui vou eu!",
-    status: "1. Definição de conteúdos. /  2. Diagnóstico. / 3. Plano Didático Ativo.",
-    location: "Operações com números racionais (decimal). / Interpretação de gráficos e tabelas. / Orçamento. / Renda fixa e variável. / Custo total.",
+    name: "1. Consumo vs. Consumismo.",
+    role: "1. Ter ou ser? Eis a questão... / 2. Jura que posso gastar mais? Juros!",
+    status: "1. Definição de conteúdos. / 2. Diagnóstico. / 3. Plano Didático Ativo.",
+    location: "Revisões de operações com números racionais. / Grandezas diretamente proporcionais. / Porcentagem. / Consumo e Consumismo. / Orçamento e taxas de juros. / Poupança, empréstimos e descontos.",
     department: "Ferramentas Google.",
   },
 ];

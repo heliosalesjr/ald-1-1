@@ -25,8 +25,8 @@ function AtiDicaGrupo() {
                 <FaStarOfLife className='text-center mx-auto'/>
                 <p className="font-gray-800 mt-4 pt-4">
                 Veja 
-                <a href="https://drive.google.com/file/d/1B8Gn-3hdrSRqI7g_1a9RCURcSgBGDvd0/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui </a> como as turmas do professor Carlos e professora Jussara definiram os temas de seus Projetos Coletivos com a ajuda das ferramentas de diagnóstico. Você pode conferir também como os alunos do professor Carlos nomearam seu projeto,  veja 
-                <a href="https://drive.google.com/file/d/1K9h7_SuGK2jFfYpZ8BGrrf-4BFDGiOi_/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui</a>.
+                <a href="https://drive.google.com/file/d/1k1eG8l2-yip-49jOPZ0NAyZrDIDbeXzr/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui </a> como as turmas do professor André e professora Vilma definiram os temas de seus Projetos Coletivos com a ajuda das ferramentas de diagnóstico.
+                
                 </p>
             </div>
             

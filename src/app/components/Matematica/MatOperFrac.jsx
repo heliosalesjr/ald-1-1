@@ -46,7 +46,7 @@ function MatOperFrac() {
                             <CiBookmarkCheck className="text-4xl text-primary mb-4" />
                         </div>
                        
-                        <p className='text-sm text-slate-700 text-left'>As atividades do Capítulo 1 do Livro do Estudante estão disponíveis <a href="https://forms.gle/Rk4NfXsmRLRvJghA8" target="_blank" rel="noopener noreferrer" className="underline text-blue-800 hover:text-purple-800"> neste formulário </a>. Você poderá enviá-las aos estudantes e coletar as respostas de forma assíncrona a fim de avaliar o conhecimento dos jovens sobre operações com frações e decimais.
+                        <p className='text-sm text-slate-700 text-left'>As atividades do Capítulo 1 do Livro do Estudante estão disponíveis <a href="https://forms.gle/iWcViZZXCKynQNQU7" target="_blank" rel="noopener noreferrer" className="underline text-blue-800 hover:text-purple-800"> neste formulário </a>. Você poderá enviá-las aos estudantes e coletar as respostas de forma assíncrona a fim de avaliar o conhecimento dos jovens sobre operações com frações e decimais.
 
                         </p>
                         <br></br>

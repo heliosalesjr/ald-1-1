@@ -7,10 +7,10 @@ function EtaDica2() {
             <br></br><br></br>
             </p>
             <p className="font-normal text-medium">
-              Vamos ver como a professora Jussara e o professor Carlos se saíram com suas turmas? Ambos aplicaram atividades de diagnóstico de realidade. Você pode conferir 
-              <a href="https://drive.google.com/file/d/1rebHupg2kSTgqfYbzV58X79MBSyj7XZU/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui o resultado da turma da professora Jussara</a> e 
-              <a href="https://drive.google.com/file/d/1Ixn29mAteTLq7gybgCrPlyLNvdbB7c9A/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui o resultado da turma do professor Carlos</a>. Você também pode conferir 
-              <a href="https://drive.google.com/file/d/1Jni8VTheeMWaKy77YsnxOihrawN1Y6w4/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui um breve relato da turma de cada um</a>, após a aplicação de ambas os diagnósticos.
+            Vamos ver como a professora Vilma e o professor André se saíram com suas turmas? Ambos aplicaram atividades de diagnóstico de realidade. Você pode conferir
+              <a href="https://drive.google.com/file/d/1nzzUbVbkwBg10DcNTDy2SQ0VVremTJDJ/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui </a>  o resultado da turma da professora Vilma e
+              <a href="https://drive.google.com/file/d/1qy4-rdegjDadWw-MCFAZXxspXsXuZDMM/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui </a>o resultado da turma do professor André. Você também pode conferir 
+              <a href="https://drive.google.com/file/d/1qy4-rdegjDadWw-MCFAZXxspXsXuZDMM/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui </a>um breve relato da turma de cada um, após a aplicação de ambos os diagnósticos.
             </p>
           </div>
       </div>
