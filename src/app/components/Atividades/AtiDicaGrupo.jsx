@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaStarOfLife } from "react-icons/fa";
+import { Divider } from '@nextui-org/react';
 
 function AtiDicaGrupo() {
     return (
@@ -22,7 +22,7 @@ function AtiDicaGrupo() {
                 <p className="font-bold px-8 pb-8">
                 Os trabalhos neste programa se dirigem ao Projeto Coletivo. Assim, quando surgem demandas individuais, elas precisam ser reconhecidas por todos como algo importante, a que os estudantes podem se dedicar pessoalmente, mas que não será trabalhado diretamente nas aulas deste programa.
                 </p>
-                <FaStarOfLife className='text-center mx-auto'/>
+                <Divider />
                 <p className="font-gray-800 mt-4 pt-4">
                 Veja 
                 <a href="https://drive.google.com/file/d/1k1eG8l2-yip-49jOPZ0NAyZrDIDbeXzr/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="underline"> aqui </a> como as turmas do professor André e professora Vilma definiram os temas de seus Projetos Coletivos com a ajuda das ferramentas de diagnóstico.

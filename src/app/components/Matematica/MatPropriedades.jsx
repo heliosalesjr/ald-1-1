@@ -16,15 +16,34 @@ function MatPropriedades() {
                     <p className="text-lg text-white">
                       No modelo virtual, você pode usar o{" "}
                       <a
-                        href="https://jamboard.google.com/"
+                        href="https://keep.google.com/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="underline"
                       >
-                        Google Jamboard
+                        Google Keep
+                      </a>
+                      , o{" "}
+                      <a
+                        href="https://docs.google.com/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="underline"
+                      >
+                        Google Docs
+                      </a>{" "}
+                      e o{" "}
+                      <a
+                        href="https://padlet.com/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="underline"
+                      >
+                        Padlet
                       </a>{" "}
                       para registrar as ideias e armazená-las na pasta do Google Drive correspondente a cada turma. Assim, você terá o acervo do registro deste projeto.
                     </p>
+
 
                   </div>
                   <div className="mb-12 lg:mb-0">

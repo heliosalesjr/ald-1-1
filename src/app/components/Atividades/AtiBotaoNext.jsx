@@ -8,9 +8,9 @@ function AtiBotaoNext() {
     <>
         <div className=" text-gray-700 flex justify-center px-4 py-4 ">
             <p className='max-w-screen-xl'>
-            Após acessar os exemplos e realizar as dinâmicas de diagnóstico com seus estudantes, registre seu PPDA em uma planilha.
+            Após acessar os exemplos e realizar as dinâmicas de diagnóstico com seus estudantes, registre seu PDA em uma planilha.
             Assim, você poderá acessá-lo durante a execução do projeto e compartilhá-lo com seus estudantes por meio do Google Sala de Aula.
-            Confira um exemplo de planilha <a href="seu-link-da-planilha-aqui" className="text-blue-500 hover:text-blue-700 underline">neste link</a>.
+            Confira um exemplo de planilha <a href="https://docs.google.com/spreadsheets/d/1TChu-0MkHvgLK-4GAYrlBQNlVJwxfJpmi0utUeZvajI/edit?usp=sharing" className="text-blue-500 hover:text-blue-700 underline">neste link</a>.
             Você pode copiá-la, preenchê-la e torná-la acessível aos estudantes.
             </p>
         </div>

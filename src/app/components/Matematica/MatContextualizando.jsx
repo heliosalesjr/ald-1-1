@@ -14,7 +14,7 @@ function MatContextualizando() {
               <div className="attention-box mx-8 text-slate-800 text-center text-lg border-2 border-primary rounded-lg p-8">
               <h1 className="text-4xl font-semibold text-slate-700 mb-4">Atividades Extras</h1>
                 <p>
-                    Acesse as <a href="https://conteudoextra.vercel.app/" target="_blank" rel="noopener noreferrer" className="underline text-blue-800 hover:text-purple-800"> atividades extras</a>{' '}que vão além do conteúdo presente nos livros físicos. Aqui você poderá acessar e baixar PDFs com atividades para cada capítulo, dando um passo além no ensino de habilidades matemáticas.
+                    Acesse as <a href="https://exerciciosextras1a.beieducacaopedagogico.com/" target="_blank" rel="noopener noreferrer" className="underline text-blue-800 hover:text-purple-800"> atividades extras</a>{' '}que vão além do conteúdo presente nos livros físicos. Aqui você poderá acessar e baixar PDFs com atividades para cada capítulo, dando um passo além no ensino de habilidades matemáticas.
                 </p>
                 
               </div>

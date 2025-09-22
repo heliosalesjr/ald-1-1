@@ -39,6 +39,10 @@ const MatGrandezas = () => {
                     </a>
                 {' '}o conteúdo sobre <strong>Porcentagem</strong> no livro Tópicos em Matemática. 
             </p>
+
+            <p className="mb-8 max-w-md text-white">
+                        Você também pode conferir <a href="https://drive.google.com/file/d/1T-Bh9KNk8wi5iw-SvzcTcv-38uuRpeaF/view?usp=sharing" target="_blank" rel="noopener noreferrer" className='underline hover:text-sky-300'>aqui</a> o conteúdo do livro Tópicos em Matemática sobre operações com números decimais e <a href="https://drive.google.com/file/d/1ydvl7SSfqJkzHkslB7g5XKBNxEmfx2YT/view?usp=sharing" target="_blank" rel="noopener noreferrer" className='underline hover:text-sky-300'>aqui</a> sobre operações com números fracionários.
+                        </p>
             
             </div>
             {/* content - end */}
