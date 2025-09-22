@@ -29,14 +29,21 @@ function MainProposta() {
             </AccordionItem>
             <AccordionItem key="3" aria-label="Accordion 3" title="Mapa Esquemático de Conteúdos de Matemática">
               <p className="text-gray-700">
-              Clicando aqui, você pode acessar o mapa que mostra os conteúdos básicos de Matemática previstos na BNCC para o Ensino Básico. Interligamos as partes que apresentam interdependência e destacamos os tópicos que se referem à Educação Financeira. Os conteúdos de anos anteriores devem ser revisitados caso ainda suscitem dúvidas entre os educandos.
+                <a
+                  href="https://drive.google.com/file/d/1nN2I2_s2obnnBUStZDkN1K4k8h6l8eJV/view"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-500 underline hover:text-blue-700"
+                >
+                  Clicando aqui
+                </a>, você pode acessar o mapa que mostra os conteúdos básicos de Matemática previstos na BNCC para o Ensino Básico. Interligamos as partes que apresentam interdependência e destacamos os tópicos que se referem à Educação Financeira. Os conteúdos de anos anteriores devem ser revisitados caso ainda suscitem dúvidas entre os educandos.
               </p>
             </AccordionItem>
             <AccordionItem key="4" aria-label="Accordion 3" title="Quadro Geral">
             <p className="text-gray-700">
                 Neste quadro, estão organizados os conteúdos de Matemática e Educação Financeira tratados no Livro do Estudante e as competências específicas da BNCC.{" "}
                 <a
-                    href="https://docs.google.com/spreadsheets/d/1DFJAnY_SmwUOelCjAFSarbtot7P0ehB0BptqqehtM30/edit?usp=sharing"
+                    href="https://docs.google.com/spreadsheets/d/1RLpcFXrQTB40T2DshPJklPjwE-2_EUsMcmw8w3VZX_c/edit?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-500 underline hover:text-blue-700"

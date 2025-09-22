@@ -23,7 +23,7 @@ const SectionHalf = () => {
           <p className="text-white">
           A Educação Financeira é indispensável para preparar o jovem para o futuro, favorecendo sua formação como cidadão e tornando-o mais crítico e preparado para enfrentar os desafios da vida adulta. Além disso, seu conteúdo aplica-se ao cotidiano de todos, dialogando estreitamente com a Matemática.
           <br></br>
-          Na atualização de 2019, a nova BNCC incluiu a Educação Financeira entre os temas que deverão constar nos currículos de todo o país; mesmo que inserido como um “tema transversal”, é na competência da Matemática que ele é mencionado explicitamente.
+          Na atualização de 2019, a BNCC incluiu a Educação Financeira entre os temas que deverão constar nos currículos de todo o país; mesmo que inserido como um “tema transversal”, é na competência da Matemática que ele é mencionado explicitamente.
           </p>
         </div>
       </section>

@@ -23,7 +23,7 @@ function BaixeLivros() {
             */}
             <div className="flex flex-col my-4 space-y-4 sm:flex-cols lg:flex lg:flex-col">
               <a
-                href="https://www.google.com/url?q=https%3A%2F%2Fwww.flipsnack.com%2F7E8DB9BBDC9%2Fbe-educa-o-educa-o-financeira-1-livro-educador%2Ffull-view.html&sa=D&sntz=1&usg=AOvVaw24J2AZvjWV1KZ6zBQUdzU9"
+                href="https://www.flipsnack.com/7E8DB9BBDC9/be-educa-o-educa-o-financeira-1-livro-estudante/full-view.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-customizado btn-outline mx-4"
@@ -47,7 +47,7 @@ function BaixeLivros() {
                 Tópicos de Matemática
               </a>
               <a
-                href="https://www.flipsnack.com/7E8DB9BBDC9/bei_educacao_ed_financeira_socioemocional_9ano_em_educador/full-view.html"
+                href="https://www.flipsnack.com/7E8DB9BBDC9/bjp4a0-bei_educacao_ed_financeira_socioemocional_1ano_em_edu/full-view.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-customizado btn-outline mx-4"

@@ -7,7 +7,7 @@ function FAQDaisy() {
       <div className="md:w-1/3">
         {/* Conteúdo da primeira coluna */}
         <h1 className="text-4xl font-bold text-center text-slate-800">Materiais do Programa</h1>
-        <p className="text-lg font-gray-800 text-center mt-4">Saiba mais clicando sobre o material.</p>
+        <p className="text-lg font-gray-800 text-center mt-4">Saiba mais clicando sobre o nome do material.</p>
         {/* Adicione sua imagem aqui, se necessário */}
       </div>
       <div className="w-full md:w-2/3 mt-8 pl-8 md:mt-0">
@@ -18,7 +18,7 @@ function FAQDaisy() {
               Traz conteúdos do currículo de Matemática ancorados em conceitos de Educação Financeira contextualizados em situações cotidianas vividas pelos estudantes. O professor de matemática também pode convidar educadores de outros componentes curriculares, como Português, Ciências, Geografia, entre outros, para trabalhar de forma interdisciplinar.
               </p><br></br>
               <p className="text-gray-700">
-              O material possibilita ainda que o educador retome conteúdos prévios essenciais, para colaborar com processos de nivelamento, ampliação e sistematização de conhecimentos matemáticos previstos na nova BNCC e nas matrizes de referência do Sistema de Avaliação da Educação Básica (SAEB) e do PISA.
+              O material possibilita ainda que o educador retome conteúdos prévios essenciais, para colaborar com processos de nivelamento, ampliação e sistematização de conhecimentos matemáticos previstos na BNCC e nas matrizes de referência do Sistema de Avaliação da Educação Básica (SAEB) e do PISA.
               </p>
             </AccordionItem>
             <AccordionItem key="2" aria-label="Accordion 2" title="Caderno do Educador">

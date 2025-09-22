@@ -26,9 +26,9 @@ const FeatureSection = () => {
             <div className="mb-6 inline-block rounded-md bg-gradient-to-tl from-primary-focus to-sky-700 p-4 text-primary">
               <GiTeacher className="h-8 w-8 text-white" />
             </div>
-            <h5 className="mb-4 text-lg font-bold">Nova BNCC</h5>
+            <h5 className="mb-4 text-lg font-bold">BNCC</h5>
             <p className="text-neutral-700 dark:text-neutral-600">
-              Para o desenvolvimento do conteúdo, a equipe da BEĨ utilizou os referenciais metodológicos da OCDE, articulando-os com a nova BNCC e inserindo-os em um texto que procura potencializar as competências socioemocionais dos estudantes.
+              Para o desenvolvimento do conteúdo, a equipe da BEĨ utilizou os referenciais metodológicos da OCDE, articulando-os com a BNCC e inserindo-os em um texto que procura potencializar as competências socioemocionais dos estudantes.
             </p>
           </div>
 
