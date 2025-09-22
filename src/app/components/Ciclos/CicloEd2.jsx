@@ -20,15 +20,33 @@ function CicloEd2() {
         <div className="md:w-1/2 mt-8 md:mt-0">
         <Accordion variant='bordered'>
             <AccordionItem key="1" aria-label="Accordion 1" title="1. Identificar principais conteúdos a trabalhar">
-            
-                
                 <p className="text-slate-700">
-                    É preciso ter clareza a respeito do conteúdo de Matemática e Educação Financeira a ser trabalhado neste programa, que contempla competências e habilidades esperadas pelo Pisa e pelo Saeb. Para isso, o Mapa Esquemático dos Conteúdos de Matemática (acessível aqui) pode contribuir. Leve em conta também as opções estabelecidas no Projeto Político-Pedagógico (PPP) de sua escola.
-                </p><br></br>
+                    É preciso ter clareza a respeito do conteúdo de Matemática e Educação Financeira a ser trabalhado neste programa, que contempla competências e habilidades esperadas pelo Pisa e pelo Saeb. Para isso, o Mapa Esquemático dos Conteúdos de Matemática (
+                    <a
+                        href="https://drive.google.com/file/d/1nN2I2_s2obnnBUStZDkN1K4k8h6l8eJV/view"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-500 underline hover:text-blue-700"
+                    >
+                        acessível aqui
+                    </a>
+                    ) pode contribuir. Leve em conta também as opções estabelecidas no Projeto Político-Pedagógico (PPP) de sua escola.
+                </p>
+                <br />
                 <p className="text-slate-700">
-                    Você também pode utilizar o Quadro Geral (acessível aqui) para organizar os conteúdos de acordo com as etapas de desenvolvimento do projeto.
+                    Você também pode utilizar o Quadro Geral (
+                    <a
+                        href="https://docs.google.com/spreadsheets/d/1RLpcFXrQTB40T2DshPJklPjwE-2_EUsMcmw8w3VZX_c/edit?gid=0#gid=0"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-500 underline hover:text-blue-700"
+                    >
+                        acessível aqui
+                    </a>
+                    ) para organizar os conteúdos de acordo com as etapas de desenvolvimento do projeto.
                 </p>
             </AccordionItem>
+
             <AccordionItem key="2" aria-label="Accordion 2" title="2. Fazer o diagnóstico">
             
                 <p className="text-slate-700">

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, CardBody } from "@nextui-org/react";
+import Image from 'next/image';
 
 const CicloCl4 = () => {
   const cardData = [
@@ -30,57 +31,68 @@ const CicloCl4 = () => {
 
   return (
     <>
-        <div>
-            <h1 className="text-4xl font-bold text-center text-gray-700 p-8">
-            O Ciclo do Projeto Coletivo
-            </h1>
-            <p className='pb-8 text-center'>
-            Este ciclo, de cor laranja, refere-se às atividades que os alunos deverão desenvolver para o andamento do projeto. São elas:
-            </p>
-                <div className="max-w-2xl mx-auto">
-                    <div className="grid md:flex md:flex-col">
-                        {renderCards()}
-                    </div>
-                </div>
-                <div className='max-w-3xl mx-auto bg-slate-200 rounded-xl p-8 m-8'>
-                  <p className=' text-center p-2 m-2'>
-                  No Caderno do Educador, você encontra relatos da professora Vilma e do professor André. São histórias fictícias, porém baseadas em fatos, que auxiliam na compreensão da proposta metodológica. Para conhecer a professora Vilma e sua turma {" "}
-                      <a
-                          href="https://drive.google.com/file/d/13m5qh4MRVykxmLi9iu_raKOVO81JTSBK/view?usp=sharing"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-blue-800 hover:text-blue-500 underline"
-                      >
-                          clique aqui
-                      </a>
-                      . Para conhecer o professor André e seus alunos{" "}
-                      <a
-                          href="https://drive.google.com/file/d/1XRoFT3ZdDCn4mhsjowIEMXqbVu910PrI/view?usp=sharing"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-blue-800 hover:text-blue-500 underline"
-                      >
-                          clique aqui
-                      </a>
-                      . Neste 
-                      <a
-                          href="https://drive.google.com/file/d/1QvCH0T4kdnIYtovkMPHThx5PJOKPoDGw/view?usp=sharing"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="text-blue-800 hover:text-blue-500 underline"
-                      > link</a>, 
-                      você pode conferir um exemplo de como esses relatos serão utilizados, com o exemplo do relato de culminância dos projetos das turmas de ambos os professores.
-                  </p>
-                </div>
-                
+      <div>
+        <h1 className="text-4xl font-bold text-center text-gray-700 p-8">
+          O Ciclo do Projeto Coletivo
+        </h1>
+
+        <div className="flex justify-center mb-8">
+          <Image
+            src="/images/cpcoletivo.png"
+            alt="Ciclo do Projeto Coletivo"
+            width={300}
+            height={200}
+            className="rounded-lg shadow-md"
+          />
         </div>
+        <p className='pb-8 text-center'>
+          Este ciclo, de cor laranja, refere-se às atividades que os alunos deverão desenvolver para o andamento do projeto. São elas:
+        </p>
+
+        {/* Imagem centralizada */}
+        
+
+        <div className="max-w-2xl mx-auto">
+          <div className="grid md:flex md:flex-col">
+            {renderCards()}
+          </div>
+        </div>
+
+        <div className='max-w-3xl mx-auto bg-slate-200 rounded-xl p-8 m-8'>
+          <p className=' text-center p-2 m-2'>
+            No Caderno do Educador, você encontra relatos da professora Vilma e do professor André. São histórias fictícias, porém baseadas em fatos, que auxiliam na compreensão da proposta metodológica. Para conhecer a professora Vilma e sua turma{" "}
+            <a
+              href="https://drive.google.com/file/d/13m5qh4MRVykxmLi9iu_raKOVO81JTSBK/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-800 hover:text-blue-500 underline"
+            >
+              clique aqui
+            </a>
+            . Para conhecer o professor André e seus alunos{" "}
+            <a
+              href="https://drive.google.com/file/d/1XRoFT3ZdDCn4mhsjowIEMXqbVu910PrI/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-800 hover:text-blue-500 underline"
+            >
+              clique aqui
+            </a>
+            . Neste{" "}
+            <a
+              href="https://drive.google.com/file/d/1QvCH0T4kdnIYtovkMPHThx5PJOKPoDGw/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-800 hover:text-blue-500 underline"
+            >
+              link
+            </a>
+            , você pode conferir um exemplo de como esses relatos serão utilizados, com o exemplo do relato de culminância dos projetos das turmas de ambos os professores.
+          </p>
+        </div>
+      </div>
     </>
-    
   );
 };
 
 export default CicloCl4;
-
-
-
-
