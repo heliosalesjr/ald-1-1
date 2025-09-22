@@ -1,7 +1,7 @@
 import React from 'react';
 import { SiGoogleforms } from 'react-icons/si';
 import { SiGoogleclassroom } from 'react-icons/si';
-import { SiJamboard } from 'react-icons/si';
+
 import { PiGoogleDriveLogo } from 'react-icons/pi';
 
 const RecGoogle = () => {
@@ -68,25 +68,7 @@ const RecGoogle = () => {
                 </div>
               </div>
 
-              <div className="mb-12 w-full shrink-0 grow-0 basis-auto lg:w-6/12 lg:px-3">
-                <div className="flex">
-                  <div className="shrink-0">
-                    <div className="rounded-md p-4 bg-green-300 text-primary dark:text-primary-400">
-                      <a href="http://jamboard.google.com" target="_blank" rel="noopener noreferrer">
-                        <SiJamboard className="h-6 w-6 text-gray-600" />
-                      </a>
-                    </div>
-                  </div>
-                  <div className="ml-4 grow">
-                    <p className="mb-3 font-bold">Jamboard</p>
-                    <p className="text-neutral-700 dark:text-neutral-300">
-                      Uma lousa digital colaborativa que facilita a criação e
-                      compartilhamento de ideias por meio de anotações, desenhos e
-                      recursos visuais.
-                    </p>
-                  </div>
-                </div>
-              </div>
+             
 
               <div className="mb-12 w-full shrink-0 grow-0 basis-auto lg:w-6/12 lg:px-3">
                 <div className="flex">
